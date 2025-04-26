@@ -33,6 +33,7 @@ const BillingInfo: React.FC<BillingInfoProps> = ({ billingDetails, setBillingDet
           placeholder="Address"
           style={{
             scrollbarWidth: "none",
+            resize: "none",
           }}
         />
       </div>
@@ -50,6 +51,7 @@ const BillingInfo: React.FC<BillingInfoProps> = ({ billingDetails, setBillingDet
           placeholder="Address"
           style={{
             scrollbarWidth: "none",
+            resize: "none",
           }}
         />
       </div>
